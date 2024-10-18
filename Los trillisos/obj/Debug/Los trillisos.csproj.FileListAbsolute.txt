@@ -1,0 +1,14 @@
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\bin\Debug\Los trillisos.exe.config
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\bin\Debug\Los trillisos.exe
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\bin\Debug\Los trillisos.pdb
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los trillisos.csproj.AssemblyReference.cache
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los_trillisos.Form1.resources
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los_trillisos.Properties.Resources.resources
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los trillisos.csproj.GenerateResource.cache
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los trillisos.csproj.CoreCompileInputs.cache
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los trillisos.exe
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los trillisos.pdb
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\bin\Debug\Guna.UI2.dll
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\bin\Debug\MaterialSkin.dll
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los tril.11547936.Up2Date
+C:\Users\Joel Herrera\source\repos\Los trillisos\Los trillisos\obj\Debug\Los_trillisos.Iniciar_sesion.resources
