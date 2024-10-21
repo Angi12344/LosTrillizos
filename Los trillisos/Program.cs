@@ -16,7 +16,7 @@ namespace Los_trillisos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Proveedor());
+            Application.Run(new Form1());
         }
     }
 }
