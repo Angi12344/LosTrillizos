@@ -1,0 +1,6 @@
+.vs/
+obj/
+Los trillisos/obj/
+*.user
+*.suo
+*.bak
