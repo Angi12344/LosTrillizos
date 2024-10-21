@@ -108,5 +108,14 @@ namespace Los_trillisos
             guna2Panel6.BackColor = Color.Transparent;
             guna2Panel7.BackColor = Color.Transparent;
         }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+
+            Form2 form2 = new Form2();
+
+            // Mostrar el nuevo formulario
+            form2.Show();
+        }
     }
 }

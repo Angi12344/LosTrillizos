@@ -1,2 +1,6 @@
-# Ignorar el directorio .vs de Visual Studio
 .vs/
+bin/
+*.user
+*.suo
+*.bak
+Los trillisos/obj/
